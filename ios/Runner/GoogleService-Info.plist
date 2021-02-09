@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>962379535150-q2onhfgjv9kr3741dnfmiii4gkvnt1ql.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.962379535150-q2onhfgjv9kr3741dnfmiii4gkvnt1ql</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgwiJk3_Np-5UoogWmzvmTcbXiNBl1vFQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>962379535150</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.babylon.myEmployeeManager</string>
+	<key>PROJECT_ID</key>
+	<string>my-employee-manager-b966b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-employee-manager-b966b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:962379535150:ios:c96bea32078389f74520bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://my-employee-manager-b966b.firebaseio.com</string>
+</dict>
+</plist>

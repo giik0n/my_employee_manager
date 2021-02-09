@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "962379535150",
+    "firebase_url": "https://my-employee-manager-b966b.firebaseio.com",
+    "project_id": "my-employee-manager-b966b",
+    "storage_bucket": "my-employee-manager-b966b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962379535150:android:487505188a35e5bb4520bf",
+        "android_client_info": {
+          "package_name": "com.alexpan.taskmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962379535150-qbgu5motmsfl32v82pel904ia02h9t5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtrbf6wyVap-oZI7swn4LI6el-tlcnXZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962379535150-qbgu5motmsfl32v82pel904ia02h9t5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "962379535150-meldr9iktd95jo0o8c078qfk2uamt9tg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myEmployeeManager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
